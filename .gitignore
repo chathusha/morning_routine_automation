@@ -1,0 +1,8 @@
+# files with following extensions:
+*.jpg
+
+# files with following file names:
+sensitive_data.py
+
+# directories with following names:
+/venv
