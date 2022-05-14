@@ -7,9 +7,9 @@ from spotify import open_spotify
 import logging
 import time
 
-def home_routine(spotify_path: str, urls:list) -> None:
+def office_routine(spotify_path: str, urls:list) -> None:
     """
-    The routine that runs at home.
+    The routine that runs at office.
 
     :param spotify_path: Local path of the Spotify.exe.
     :param urls: List of urls which need open in browser.
