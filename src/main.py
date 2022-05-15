@@ -18,6 +18,9 @@ def main():
     logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
     logging.info('Script started')
 
+    # set startup delay to 1 minute
+    time.sleep(60)
+
     # get current time
     now = time.localtime()
     # convert time to string
