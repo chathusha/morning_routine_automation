@@ -18,9 +18,6 @@ def main():
     logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
     logging.info('Script started')
 
-    # wait for 2 minuits
-    time.sleep(120)
-
     # get current time
     now = time.localtime()
     # convert time to string
