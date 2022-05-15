@@ -10,7 +10,9 @@ import logging
 # constants
 SPOTIFY_PATH = "C:\\Users\\ROG\\AppData\\Roaming\\Spotify\\Spotify.exe"
 URLS = [
-    "https://ticktick.com/"
+    "https://mail.google.com/",
+    "https://calendar.google.com/",
+    "https://web.whatsapp.com/"
 ]
 
 def main():
