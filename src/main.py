@@ -8,7 +8,7 @@ import time
 import logging
 
 # constants
-SPOTIFY_PATH = "C:\\Users\\ROG\\AppData\\Roaming\\Spotify\\Spotify.exe"
+SPOTIFY_PATH = "C:\\Users\\chathusha\\AppData\\Roaming\\Spotify\\Spotify.exe"
 URLS = [
     "https://mail.google.com/",
     "https://calendar.google.com/",
