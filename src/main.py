@@ -1,5 +1,3 @@
-#! C:\Users\ROG\Documents\04. Hobbies\01. Python\07. Automation\venv\Scripts\python.exe
-
 # local imports
 from home_routine import home_routine
 
